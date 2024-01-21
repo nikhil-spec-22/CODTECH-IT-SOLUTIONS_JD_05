@@ -1,10 +1,9 @@
 # CODTECH IT SOLUTIONS
 Java development internship at CODTECH IT SOLUTIONS.
 
-## TIC-TAC-TOE GAME (TASK 5)
-+ Develop a text-based Tic-Tac-Toe game where two players (human vs human or human vs computer).
-* take turns placing their marks on a 3x3 grid.
-+ The program should check for wins, draws, and handle invalid moves.
+## TEXT FILE ENCRYPTION/DECRYPTION (TASK 5)
++ Write a program that can encrypt and decrypt a text file using a simple Caesar cipher where each letter is shifted a certain number of positions in the alphabet.
+*  Allow users to input the key for encryption and decryption.
 
 ## Installation
 Just,Clone this repository -
